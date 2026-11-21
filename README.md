@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm You-Lin Huang 👋
 
-<!--
-**youo3o413/youo3o413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ National Chengchi University**
 
-Here are some ideas to get you started:
+AI Agents · Data Analysis · Computer Vision · Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am a Computer Science undergraduate with hands-on experience in developing AI-powered applications, multi-agent systems, and data-driven decision platforms.
+
+My interests include artificial intelligence, intelligent systems, and the application of computational methods to interdisciplinary research.
+
+### Technical Skills
+
+**Programming & Data:** Python, C++, SQL, Pandas, NumPy
+
+**Artificial Intelligence:** LLMs, Agentic AI, Multi-Agent Systems, LangChain, LangGraph
+
+**Computer Vision:** OpenCV, MediaPipe
+
+**Backend & Development:** FastAPI, PostgreSQL, Docker, Git
+
+### Featured Projects
+
+**FactoryMind — Intelligent Manufacturing Decision Platform**
+
+Agentic AI · Optimization · Decision Support
+
+**RentWise — AI-Powered Rental Decision Platform**
+
+Multi-Agent Systems · Data Integration · Location Analysis
+
+**Vision-Based Virtual Piano**
+
+Computer Vision · OpenCV · MediaPipe
+
+**Carbon Footprint Assessment System**
+
+Data Management · Carbon Accounting
+
+### Research Interests
+
+Artificial Intelligence · Data-Driven Systems · Computer Vision · Biomedical Informatics (Future Research Interest)
